@@ -1,6 +1,6 @@
 # Erlang
 
-My Erlang Files. The files here are classified groups.
+My Erlang Files. The files here are classified into groups.
 
 Classwork (Programming I've done for my classes in Java):
 
