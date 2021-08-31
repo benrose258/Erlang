@@ -1,4 +1,4 @@
-# Erlang Files
+# Erlang
 
 My Erlang Files. The files here are classified into a couple different groups.
 
